@@ -1,0 +1,8 @@
+/home/aukis/Dokumenter/openssl-example/build/CMakeFiles/edit_cache.dir
+/home/aukis/Dokumenter/openssl-example/build/CMakeFiles/rebuild_cache.dir
+/home/aukis/Dokumenter/openssl-example/build/CMakeFiles/test.dir
+/home/aukis/Dokumenter/openssl-example/build/CMakeFiles/examples.dir
+/home/aukis/Dokumenter/openssl-example/build/tests/CMakeFiles/test.dir
+/home/aukis/Dokumenter/openssl-example/build/tests/CMakeFiles/edit_cache.dir
+/home/aukis/Dokumenter/openssl-example/build/tests/CMakeFiles/rebuild_cache.dir
+/home/aukis/Dokumenter/openssl-example/build/tests/CMakeFiles/crypto_test.dir

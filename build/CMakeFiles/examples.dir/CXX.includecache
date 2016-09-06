@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aukis/Dokumenter/openssl-example/crypto.hpp
+openssl/evp.h
+-
+openssl/sha.h
+-
+sstream
+-
+iomanip
+-
+string
+-
+
+/home/aukis/Dokumenter/openssl-example/examples.cpp
+crypto.hpp
+/home/aukis/Dokumenter/openssl-example/crypto.hpp
+iostream
+-
+
